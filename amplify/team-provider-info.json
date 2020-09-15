@@ -1,0 +1,15 @@
+{
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kompetansegui-master-142043-authRole",
+      "UnauthRoleArn": "arn:aws:iam::400993891727:role/amplify-kompetansegui-master-142043-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::400993891727:role/amplify-kompetansegui-master-142043-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-kompetansegui-master-142043-deployment",
+      "UnauthRoleName": "amplify-kompetansegui-master-142043-unauthRole",
+      "StackName": "amplify-kompetansegui-master-142043",
+      "StackId": "arn:aws:cloudformation:eu-central-1:400993891727:stack/amplify-kompetansegui-master-142043/e0dfd790-f74d-11ea-b42a-0ad75412b350",
+      "AmplifyAppId": "da2nxwtxibcdz"
+    }
+  }
+}
